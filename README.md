@@ -85,7 +85,13 @@ This project focuses on detecting brain tumors using MRI images through a Convol
 - NumPy
 - Matplotlib
 - PIL (Python Imaging Library)
+## 📂 Dataset
 
+This project uses the **Brain MRI Images for Brain Tumor Detection** dataset from Kaggle.
+
+🔗 https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+
+The dataset is automatically downloaded using `kagglehub`, so no manual dataset upload is required.
 ---
 
 
